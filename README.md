@@ -1,5 +1,4 @@
-# UWBCD-ReactOS
-**Ultimate Windows Boot CD with ReactOS**
+# URBCD - **Ultimate ReactOS Boot CD**
 
 Based on the [Ultimate Boot CD (UBCD)](https://github.com/UWBCD/UWBCD-ReactOS/wiki/UBCD) and [ReactOS](https://www.reactos.org/).
 
